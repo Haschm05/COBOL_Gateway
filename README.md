@@ -14,15 +14,15 @@ This repository serves as a central directory for my projects.
 
 ## Table of Contents
 
-| Project  | Language(s) | Description | Repo | Link |
-|----------|-------------|-------------|------|------|
-| CALC2000 | COBOL / JCL | Calculates future investment values using compound growth and repeated doubling logic | [COBOLCALC2000](#) | *(TBD)* |
-| UTIL2000 | COBOL / JCL | Generates formatted monthly utility bills based on customer kWh usage | [UTIL2000](#) | *(TBD)* |
-| RPT2000  | COBOL / JCL | Produces a YTD sales report with year-over-year comparison and percent change calculations | [RPT2000](#) | *(TBD)* |
-| RPT3000  | COBOL / JCL | Creates multi-page YTD sales reports with branch-level control breaks and pagination | [RPT3000](#) | *(TBD)* |
-| RPT5000  | COBOL / JCL | Advanced reporting system with two-level control breaks and structured decision logic | [RPT5000](#) | *(TBD)* |
-| RPT6000  | COBOL / JCL | Implements table-driven processing with indexed lookups and modular copybooks | [RPT6000](#) | *(TBD)* |
-| SEQ3000  | COBOL / JCL | Maintains employee records with add, update, and delete operations | [SEQ3000](#) | *(TBD)* |
+| Project  | Language(s) | Description | Repo |
+|----------|-------------|-------------|------|
+| CALC2000 | COBOL / JCL | Calculates future investment values using compound growth and repeated doubling logic | [COBOLCALC2000](#) |
+| UTIL2000 | COBOL / JCL | Generates formatted monthly utility bills based on customer kWh usage | [UTIL2000](#) |
+| RPT2000  | COBOL / JCL | Produces a YTD sales report with year-over-year comparison and percent change calculations | [RPT2000](#) |
+| RPT3000  | COBOL / JCL | Creates multi-page YTD sales reports with branch-level control breaks and pagination | [RPT3000](#) |
+| RPT5000  | COBOL / JCL | Advanced reporting system with two-level control breaks and structured decision logic | [RPT5000](#) |
+| RPT6000  | COBOL / JCL | Implements table-driven processing with indexed lookups and modular copybooks | [RPT6000](#) |
+| SEQ3000  | COBOL / JCL | Maintains employee records with add, update, and delete operations | [SEQ3000](#) |
 
 
 ---
