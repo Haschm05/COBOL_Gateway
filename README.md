@@ -24,7 +24,9 @@ This repository serves as a central directory for my projects.
 | SEQ3000  | COBOL / JCL | Maintains employee records with add, update, and delete operations | [SEQ3000](https://github.com/Haschm05/COBOL_SEQ3000) |
 
 ---
-### **Note:** RPT3000 and IND2000 were parts of larger projects and thus not added to the final gateway
+
+**Note:** RPT3000 and IND2000 were parts of larger projects and thus not added to the final gateway
+
 ---
 
 ## CALC2000
