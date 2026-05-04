@@ -19,11 +19,12 @@ This repository serves as a central directory for my projects.
 | CALC2000 | COBOL / JCL | Calculates future investment values using compound growth and repeated doubling logic | [CALC2000](https://github.com/Haschm05/COBOL_CALC2000) |
 | UTIL2000 | COBOL / JCL | Calculates future value of investments for multiple individuals | [UTIL2000](https://github.com/Haschm05/COBO_UTIL2000) |
 | RPT2000  | COBOL / JCL | Produces a YTD sales report with year-over-year comparison and percent change calculations | [RPT2000](https://github.com/Haschm05/COBOL_RPT2000) |
-| RPT3000  | COBOL / JCL | Creates multi-page YTD sales reports with branch-level control breaks and pagination | [RPT3000]() |
 | RPT5000  | COBOL / JCL | Advanced reporting system with multi-level totals and control break processing | [RPT5000](https://github.com/Haschm05/COBOL_RPT5000) |
 | RPT6000  | COBOL / JCL | Implements table-driven processing with indexed lookups and modular design | [RPT6000](https://github.com/Haschm05/COBOL_RPT6000) |
 | SEQ3000  | COBOL / JCL | Maintains employee records with add, update, and delete operations | [SEQ3000](https://github.com/Haschm05/COBOL_SEQ3000) |
 
+---
+### **Note:** RPT3000 and IND2000 were parts of larger projects and thus not added to the final gateway
 ---
 
 ## CALC2000
@@ -78,27 +79,6 @@ A COBOL reporting program that analyzes customer sales data by calculating year-
 - Report generation and formatting
 - Working storage and data movement
 - Structured output design
-
-**Language(s):**
-COBOL / JCL
-
-**Status:**
-Complete
-
-[Table of Contents](#table-of-contents)
-
----
-
-## RPT3000
-
-**Description:**
-A COBOL program that generates multi-page Year-To-Date sales reports with branch-level control breaks and formatted pagination.
-
-**Key Concepts:**
-- Control break logic
-- Pagination and page formatting
-- Structured report generation
-- Sequential file processing
 
 **Language(s):**
 COBOL / JCL
