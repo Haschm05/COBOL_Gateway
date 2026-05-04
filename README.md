@@ -2,7 +2,7 @@
 
 **Author:** Hayden Schmidt
 
-**Github:** 
+**Github:** [Haschm05](https://github.com/Haschm05/Haschm05)
 
 ---
 
