@@ -1,105 +1,141 @@
+# COBOL Portfolio Gateway
 
-# 👋 Hi, I'm [Your Name]
+**Author:** Hayden Schmidt
 
-🎓 [Your Major / Program]  
-💻 Aspiring [Role — e.g., Software Developer, Data Analyst]  
-📍 [Location]  
-
----
-
-## 🚀 About Me
-I’m a [your major/student/professional role] with a focus on [your interests].  
-I enjoy working with [technologies or topics], and I’m especially interested in [career goals or specialties].  
-Currently, I’m working on improving my skills in [what you're learning].
+**Github:** 
 
 ---
 
-## 🧰 Tech Stack
-
-### 💻 Languages
-- COBOL
-- Python
-- Java
-- SQL
-
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- VS Code
-- Linux
-- MySQL / DB2
-
-### 📚 Currently Learning
-- [Technology or concept]
-- [Technology or concept]
+## About Me
+Welcome to my GitHub portfolio repository! I am currently studying Computer Information Systems at Wayne State College.  
+This repository serves as a central directory for my projects.
 
 ---
 
-## 📊 Project Portfolio
+## Table of Contents
 
-| Project | Description | Tech Stack | Link |
-|--------|------------|-----------|------|
-| [Project Name] | Short description of what it does | COBOL, JCL | [Repo](https://github.com/yourusername/project-name) |
-| [Project Name] | Short description | Python, SQL | [Repo](https://github.com/yourusername/project-name) |
-| [Project Name] | Short description | Java | [Repo](https://github.com/yourusername/project-name) |
+| Project  | Language(s) | Description | Repo | Link |
+|----------|-------------|-------------|------|------|
+| CALC2000 | COBOL / JCL | Calculates future investment values using compound growth and repeated doubling logic | [COBOLCALC2000](#) | *(TBD)* |
+| UTIL2000 | COBOL / JCL | Generates formatted monthly utility bills based on customer kWh usage | [UTIL2000](#) | *(TBD)* |
+| RPT2000  | COBOL / JCL | Produces a YTD sales report with year-over-year comparison and percent change calculations | [RPT2000](#) | *(TBD)* |
+| RPT3000  | COBOL / JCL | Creates multi-page YTD sales reports with branch-level control breaks and pagination | [RPT3000](#) | *(TBD)* |
+| RPT5000  | COBOL / JCL | Advanced reporting system with two-level control breaks and structured decision logic | [RPT5000](#) | *(TBD)* |
+| RPT6000  | COBOL / JCL | Implements table-driven processing with indexed lookups and modular copybooks | [RPT6000](#) | *(TBD)* |
+| SEQ3000  | COBOL / JCL | Maintains employee records with add, update, and delete operations | [SEQ3000](#) | *(TBD)* |
 
----
-
-## 📂 Featured Projects
-
-### 🔹 [Project Name]
-**Description:** Brief explanation of what it does and why it matters  
-**Tech Used:** COBOL, JCL, etc.  
-🔗 [View Repository](https://github.com/yourusername/project-name)
 
 ---
 
-### 🔹 [Project Name]
-**Description:** Brief explanation  
-**Tech Used:**  
-🔗 [View Repository](https://github.com/yourusername/project-name)
+## CALC2000
+
+**Descitpion:**
+
+**Key Concepts:** 
+
+**Language(s):**
+
+**Status:**
+
+**Link:**
+
+[Table of Contents](#table-of-contents)
 
 ---
 
-### 🔹 [Project Name]
-**Description:** Brief explanation  
-**Tech Used:**  
-🔗 [View Repository](https://github.com/yourusername/project-name)
+## UTIL2000
+
+**Descitpion:**
+
+**Key Concepts:** 
+
+**Language(s):**
+
+**Status:**
+
+**Link:**
+
+[Table of Contents](#table-of-contents)
 
 ---
 
-## 📊 GitHub Stats
+## RPT2000
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+**Descitpion:**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+**Key Concepts:** 
 
----
+**Language(s):**
 
-## 🏆 Achievements / Highlights
-- [Achievement, certification, or milestone]
-- [Scholarship, internship, etc.]
+**Status:**
 
----
+**Link:**
 
-## 📫 Contact Me
-
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio Website: https://yourwebsite.com  
+[Table of Contents](#table-of-contents)
 
 ---
 
-## ⚡ Fun Fact
-Add something memorable or personal (optional, but recommended).
+## RPT3000
+
+**Descitpion:**
+
+**Key Concepts:** 
+
+**Language(s):**
+
+**Status:**
+
+**Link:**
+
+[Table of Contents](#table-of-contents)
 
 ---
 
-## 🧭 Goals
-- 🎯 Short-term: [Goal]
-- 🚀 Long-term: [Goal]
+## RPT5000
+
+**Descitpion:**
+
+**Key Concepts:** 
+
+**Language(s):**
+
+**Status:**
+
+**Link:**
+
+[Table of Contents](#table-of-contents)
 
 ---
 
-_Thanks for visiting my profile!_
-```
+## RPT6000
+
+**Descitpion:**
+
+**Key Concepts:** 
+
+**Language(s):**
+
+**Status:**
+
+**Link:**
+
+[Table of Contents](#table-of-contents)
+
+---
+
+## SEQ3000
+
+**Descitpion:**
+
+**Key Concepts:** 
+
+**Language(s):**
+
+**Status:**
+
+**Link:**
+
+[Table of Contents](#table-of-contents)
+
+---
 
