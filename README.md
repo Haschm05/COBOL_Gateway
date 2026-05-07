@@ -14,7 +14,7 @@ This repository serves as a central directory for my projects.
 
 ## Table of Contents
 
-| Project  | Language(s) | Description | Repo |
+| Project  | TechStack | Description | Repo |
 |----------|-------------|-------------|------|
 | CALC2000 | COBOL / JCL | Calculates future investment values using compound growth and repeated doubling logic | [CALC2000](https://github.com/Haschm05/COBOL_CALC2000) |
 | UTIL2000 | COBOL / JCL | Calculates future value of investments for multiple individuals | [UTIL2000](https://github.com/Haschm05/COBO_UTIL2000) |
@@ -85,7 +85,7 @@ A COBOL reporting program that analyzes customer sales data by calculating year-
 **Language(s):**
 COBOL / JCL
 
-**Colaborators:**
+**Colaborator(s):**
 Grant Peverett
 
 **Status:**
@@ -110,7 +110,7 @@ A COBOL program that generates a detailed Year-To-Date (YTD) Sales Report. It ca
 **Language(s):**
 COBOL / JCL
 
-**Colaborators:** 
+**Colaborator(s):** 
 Jacob Schamp
 
 **Status:**
@@ -136,7 +136,7 @@ An advanced COBOL reporting system that builds upon RPT5000 by introducing table
 **Language(s):**
 COBOL / JCL
 
-**Colaborators:** 
+**Colaborator(s):** 
 Violet French
 
 **Status:**
