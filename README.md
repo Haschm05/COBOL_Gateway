@@ -14,14 +14,14 @@ This repository serves as a central directory for my projects.
 
 ## Table of Contents
 
-| Project  | TechStack | Description | Repo |
-|----------|-------------|-------------|------|
-| CALC2000 | COBOL / JCL | Calculates future investment values using compound growth and repeated doubling logic | [CALC2000](https://github.com/Haschm05/COBOL_CALC2000) |
-| UTIL2000 | COBOL / JCL | Calculates future value of investments for multiple individuals | [UTIL2000](https://github.com/Haschm05/COBO_UTIL2000) |
-| RPT2000  | COBOL / JCL | Produces a YTD sales report with year-over-year comparison and percent change calculations | [RPT2000](https://github.com/Haschm05/COBOL_RPT2000) |
-| RPT5000  | COBOL / JCL | Advanced reporting system with multi-level totals and control break processing | [RPT5000](https://github.com/Haschm05/COBOL_RPT5000) |
-| RPT6000  | COBOL / JCL | Implements table-driven processing with indexed lookups and modular design | [RPT6000](https://github.com/Haschm05/COBOL_RPT6000) |
-| SEQ3000  | COBOL / JCL | Maintains employee records with add, update, and delete operations | [SEQ3000](https://github.com/Haschm05/COBOL_SEQ3000) |
+| Project  | TechStack | Description | Repo | Publicity
+|----------|-------------|-------------|------|------|
+| CALC2000 | COBOL / JCL | Calculates future investment values using compound growth and repeated doubling logic | [CALC2000](https://github.com/Haschm05/COBOL_CALC2000) | Private |
+| UTIL2000 | COBOL / JCL | Calculates future value of investments for multiple individuals | [UTIL2000](https://github.com/Haschm05/COBO_UTIL2000) | Private |
+| RPT2000  | COBOL / JCL | Produces a YTD sales report with year-over-year comparison and percent change calculations | [RPT2000](https://github.com/Haschm05/COBOL_RPT2000) | Public |
+| RPT5000  | COBOL / JCL | Advanced reporting system with multi-level totals and control break processing | [RPT5000](https://github.com/Haschm05/COBOL_RPT5000) | Public |
+| RPT6000  | COBOL / JCL | Implements table-driven processing with indexed lookups and modular design | [RPT6000](https://github.com/Haschm05/COBOL_RPT6000) | Public |
+| SEQ3000  | COBOL / JCL | Maintains employee records with add, update, and delete operations | [SEQ3000](https://github.com/Haschm05/COBOL_SEQ3000) | Public |
 
 ---
 
