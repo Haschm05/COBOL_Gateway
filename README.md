@@ -43,6 +43,8 @@ A COBOL program that calculates the future value of an investment using a fixed 
 **Language(s):**
 COBOL / JCL
 
+**Colaborators:**
+
 **Status:**
 Complete
 
@@ -85,6 +87,9 @@ A COBOL reporting program that analyzes customer sales data by calculating year-
 **Language(s):**
 COBOL / JCL
 
+**Colaborators:**
+Grant Peverett
+
 **Status:**
 Complete
 
@@ -106,6 +111,9 @@ A COBOL program that generates a detailed Year-To-Date (YTD) Sales Report. It ca
 
 **Language(s):**
 COBOL / JCL
+
+**Colaborators:** 
+Jacob Schamp
 
 **Status:**
 Complete
@@ -129,6 +137,9 @@ An advanced COBOL reporting system that builds upon RPT5000 by introducing table
 
 **Language(s):**
 COBOL / JCL
+
+**Colaborators:** 
+Violet French
 
 **Status:**
 Complete
