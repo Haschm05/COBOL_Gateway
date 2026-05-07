@@ -43,8 +43,6 @@ A COBOL program that calculates the future value of an investment using a fixed 
 **Language(s):**
 COBOL / JCL
 
-**Colaborators:**
-
 **Status:**
 Complete
 
